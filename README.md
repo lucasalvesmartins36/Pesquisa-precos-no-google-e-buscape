@@ -1,8 +1,8 @@
-# 🛍️ Pesquisa Automatizada de Preços - Google Shopping e Buscapé
+# Pesquisa Automatizada de Preços - Google Shopping e Buscapé
 
 Este projeto realiza a leitura de uma lista de produtos a partir de um arquivo Excel (`Buscas.xlsx`) e busca os respectivos preços nas plataformas **Google Shopping** e **Buscapé**, salvando os resultados em uma nova planilha Excel.
 
-## 📌 Objetivo
+## Objetivo
 
 Autmatizar a coleta de preços de produtos a partir de uma lista definida pelo usuário, facilitando comparações e tomada de decisão de compra.
 
